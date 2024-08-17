@@ -10,8 +10,8 @@ Demo：
 
 - QTableWidget使用Demo
 
-  ![演示](https://github.com/JaneYih/QT_controlsDemo/blob/master/doc/EffectPicture/tableWidgetDemo.jpeg)
+  ![QTableWidget Demo](https://github.com/JaneYih/QT_controlsDemo/blob/master/doc/EffectPicture/tableWidgetDemo.jpeg)
 
 - 图片显示器：Graphics View Framework的使用Demo
 
-  ![演示](https://github.com/JaneYih/QT_controlsDemo/blob/master/doc/EffectPicture/pictureDisplayWidget.gif)
+  ![图片显示器](https://github.com/JaneYih/QT_controlsDemo/blob/master/doc/EffectPicture/pictureDisplayWidget.gif)
